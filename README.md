@@ -1,5 +1,3 @@
-# Project---2-expense_tracker-
-
 # Expense Tracker 💸
 
 This is a simple and responsive Expense Tracker web application built using HTML, CSS, and JavaScript. It helps users to manage their daily income and expenses in one place. You can add transactions with details like date, amount, description, and category.
